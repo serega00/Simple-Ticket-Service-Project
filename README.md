@@ -1,1 +1,0 @@
-# Simple-Ticket-Service-Project
